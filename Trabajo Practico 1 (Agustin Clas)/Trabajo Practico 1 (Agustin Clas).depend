@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1586905076 source:c:\users\ale\desktop\agus utn\progrmacion1\clase 13-04\trabajo practico 1 (agustin clas)\funcionescalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesCalculadora.h"
+
+1586905076 c:\users\ale\desktop\agus utn\progrmacion1\clase 13-04\trabajo practico 1 (agustin clas)\funcionescalculadora.h
+
+1586916013 source:c:\users\ale\desktop\agus utn\progrmacion1\clase 13-04\trabajo practico 1 (agustin clas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesCalculadora.h"
+
+1587243531 source:c:\users\ale\desktop\agus utn\progrmacion1\trabajos practicos\trabajo practico 1 (agustin clas)\funcionescalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"FuncionesCalculadora.h"
+
+1587243271 c:\users\ale\desktop\agus utn\progrmacion1\trabajos practicos\trabajo practico 1 (agustin clas)\funcionescalculadora.h
+
+1587244525 source:c:\users\ale\desktop\agus utn\progrmacion1\trabajos practicos\trabajo practico 1 (agustin clas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"FuncionesCalculadora.h"
+
